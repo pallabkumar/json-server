@@ -4,30 +4,37 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "id": "Point-A"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
-          78.1070001637126,
-          22.969121812003806
+          81.90054926202322,
+          26.31302391744589
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "id": "Point-B"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
-          82.1070001637126,
-          18.969121812003806
+          81.89781344738117,
+          26.313204392918763
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          81.89505394603128,
+          26.312885906600727
         ],
         "type": "Point"
       }
     }
   ]
- }
+}
 }
