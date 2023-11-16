@@ -1,4 +1,5 @@
 {
+"geoJson" : {
   "type": "FeatureCollection",
   "features": [
     {
@@ -28,4 +29,5 @@
       }
     }
   ]
+}
 }
